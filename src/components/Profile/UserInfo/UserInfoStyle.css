@@ -1,0 +1,42 @@
+
+.userSection {
+    width: 70%;
+}
+
+.aboutUser {
+    width: 70%;
+    padding-top: 3%;
+    padding-bottom: 4%;
+}
+
+.userPicture {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    right: 50px;
+}
+
+.userImg {
+    width: 150px;
+    height: 150px;
+}
+
+.userDetails {
+    padding-left: 6%;
+}
+
+.editProfile {
+    padding-left: 6%;
+}
+
+
+.editBtn {
+    border-color: #e1e1e1;
+    color: #000
+}
+
+/* user content div */
+
+.userContent {
+    border-top: 1px solid #e2e2e2;
+}
