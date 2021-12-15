@@ -26,59 +26,59 @@ const ExplorePage = () => {
 
                     {/* explore images */}
                 <section className='w-75'>
-                    <div class="container p-4">
-                        <div class="row flex-row">
-                            <div class="col p-2">
+                    <div className="container p-4">
+                        <div className="row flex-row">
+                            <div className="col p-2">
                                <img src={'https://picsum.photos/250/250?random=1'} />
                             </div>
-                            <div class="col p-2">
+                            <div className="col p-2">
                             <img src={'https://picsum.photos/250/250?random=2'} />
                             </div>
-                            <div class="col p-2">
+                            <div className="col p-2">
                             <img src={'https://picsum.photos/250/250?random=3'} />
                             </div>
                         </div>
-                        <div class="row flex-row">
-                            <div class="col p-2">
+                        <div className="row flex-row">
+                            <div className="col p-2">
                             <img src={'https://picsum.photos/250/250?random=4'} />
                             </div>
-                            <div class="col p-2">
+                            <div className="col p-2">
                             <img src={'https://picsum.photos/250/250?random=5'} />
                             </div>
-                            <div class="col p-2">
+                            <div className="col p-2">
                             <img src={'https://picsum.photos/250/250?random=6'} />
                             </div>
                         </div>
-                        <div class="row flex-row">
-                            <div class="col p-2">
+                        <div className="row flex-row">
+                            <div className="col p-2">
                             <img src={'https://picsum.photos/250/250?random=7'} />
                             </div>
-                            <div class="col p-2">
+                            <div className="col p-2">
                             <img src={'https://picsum.photos/250/250?random=8'} />
                             </div>
-                            <div class="col p-2">
+                            <div className="col p-2">
                             <img src={'https://picsum.photos/250/250?random=9'} />
                             </div>
                         </div>
-                        <div class="row flex-row">
-                            <div class="col p-2">
+                        <div className="row flex-row">
+                            <div className="col p-2">
                             <img src={'https://picsum.photos/250/250?random=10'} />
                             </div>
-                            <div class="col p-2">
+                            <div className="col p-2">
                             <img src={'https://picsum.photos/250/250?random=11'} />
                             </div>
-                            <div class="col p-2">
+                            <div className="col p-2">
                             <img src={'https://picsum.photos/250/250?random=12'} />
                             </div>
                         </div>
-                        <div class="row flex-row">
-                            <div class="col p-2">
+                        <div className="row flex-row">
+                            <div className="col p-2">
                             <img src={'https://picsum.photos/250/250?random=13'} />
                             </div>
-                            <div class="col p-2">
+                            <div className="col p-2">
                             <img src={'https://picsum.photos/250/250?random=14'} />
                             </div>
-                            <div class="col p-2">
+                            <div className="col p-2">
                             <img src={'https://picsum.photos/250/250?random=15'} />
                             </div>
                         </div>
