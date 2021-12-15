@@ -1,11 +1,9 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Link, useNavigate } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 
 const NotFound = () => {
-
-    const navigate = useNavigate()
 
     return (
         <div className='container text-center p-5'>
