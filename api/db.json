@@ -1,89 +1,11 @@
 {
   "users": [
-    {
-      "email": "nsbahmedov@gmail.com",
-      "fullName": "Nasib Ahmedov",
-      "userName": "ahmadovnasib",
-      "password": "nasib123",
-      "id": "4QOy0BVSMGjoZbT_WyjvR"
-    },
-    {
-      "email": "ferhad@gmail.com",
-      "fullName": "Ferhad Qedirov",
-      "userName": "qedirovferhad",
-      "password": "ferhad123",
-      "id": "TYuMf8pflqLXyUsIw2LBi"
-    },
-    {
-      "email": "rahman@gmail.com",
-      "fullName": "Rahman Niftaliyev",
-      "userName": "rahmanhoca",
-      "password": "rahman123",
-      "id": "a8TyzdmMCsNP_7jJXCeCG"
-    },
-    {
-      "email": "nurlannuri@gmail.com",
-      "fullName": "Nurlan Nuri",
-      "userName": "nurlannoolan",
-      "password": "nurlan123",
-      "id": "eA1GyCqIJOwx1izsZuS1-"
-    }
+   
   ],
   "posts": [
-    {
-      "caption": "Amazing view <3",
-      "userName": "ahmadovnasib",
-      "imgURL": "https://picsum.photos/seed/59/400/400",
-      "userId": "4QOy0BVSMGjoZbT_WyjvR",
-      "id": 1
-    },
-    {
-      "caption": "Delicious...namm",
-      "userName": "ahmadovnasib",
-      "imgURL": "https://picsum.photos/seed/4/400/400",
-      "userId": "4QOy0BVSMGjoZbT_WyjvR",
-      "id": 2
-    },
-    {
-      "caption": "Backpack travel",
-      "userName": "ahmadovnasib",
-      "imgURL": "https://picsum.photos/seed/88/400/400",
-      "userId": "4QOy0BVSMGjoZbT_WyjvR",
-      "id": 4
-    },
-    {
-      "caption": "old fart :D",
-      "userName": "nurlannoolan",
-      "imgURL": "https://picsum.photos/seed/15/400/400",
-      "userId": "eA1GyCqIJOwx1izsZuS1-",
-      "id": 7
-    },
-    {
-      "caption": "Freezing but beautiful...",
-      "userName": "qedirovferhad",
-      "imgURL": "https://picsum.photos/seed/79/400/400",
-      "userId": "TYuMf8pflqLXyUsIw2LBi",
-      "id": 8
-    }
+    
   ],
   "comments": [
-    {
-      "commentText": "What a pieceful place my friend @ahmadovnasib",
-      "postId": 1,
-      "commentedUser": "qedirovferhad",
-      "id": 1
-    },
-    {
-      "commentText": "Thank you mate )) @qedirovferhad",
-      "postId": 1,
-      "commentedUser": "ahmadovnasib",
-      "id": 2
-    },
-    {
-      "commentText": "good photo @qedirovferhad",
-      "postId": 8,
-      "commentedUser": "ahmadovnasib",
-      "id": 3
-    }
+    
   ]
 }
