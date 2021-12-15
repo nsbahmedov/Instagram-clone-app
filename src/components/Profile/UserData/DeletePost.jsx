@@ -32,7 +32,7 @@ const DeletePost = ({postId}) => {
             <button 
             type="button" 
             style ={closeStyle.btnStyle}
-            class="btn-close" 
+            className="btn-close" 
             onClick={handleDelete}>    
             </button>
         </div>
